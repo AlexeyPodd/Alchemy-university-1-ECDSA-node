@@ -33,5 +33,5 @@ _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` 
 ### What has been done in this project
 
 1. Added scripts in server folder for generating random addresses with keys, and for making signed transactions to transfer using signature, avoiding entering the private key for security reasons.
-2. Added relevant fields in Transfer form on client side, and addres recovery from signature on server side.
+2. Added relevant fields in Transfer form on client side, and address recovery from signature on server side.
 3. Added logging timestamps of transactions for avoiding repeating transfers.
