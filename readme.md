@@ -30,7 +30,7 @@ The application should connect to the default server port (3042) automatically!
 
 _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` to automatically restart the server on any changes.
 
-### What was done by doing this project
+### What has been done in this project
 
 1. Added scripts in server folder for generating random addresses with keys, and for making signed transactions to transfer using signature, avoiding entering the private key for security reasons.
 2. Added relevant fields in Transfer form on client side, and addres recovery from signature on server side.
